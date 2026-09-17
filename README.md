@@ -22,7 +22,7 @@ This project analyzes an e-commerce marketplace's sales data to answer key busin
 
 ## 📈 Page 1 — Sales Overview
 
-![Sales Overview](screenshots/page1_sales_overview.png)
+![Sales Overview](page1_sales_overview.png)
 
 - **Total Revenue**: 15.84M
 - **Total Orders**: 99K
@@ -33,7 +33,7 @@ This project analyzes an e-commerce marketplace's sales data to answer key busin
 
 ## 👥 Page 2 — Customer Segmentation (RFM Analysis)
 
-![Customer Segmentation](screenshots/page2_customer_segmentation.png)
+![Customer Segmentation](page2_customer_segmentation.png)
 
 Customers were segmented into 6 groups based on Recency, Frequency, and Monetary value:
 - **Champions** (0.7%) — highest average spend (~500+ per customer)
